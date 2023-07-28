@@ -4,8 +4,9 @@
 </p>
 
 ## WiCyS Amrita Student Chapter (WASC)
+
 <p align="center">
-    <img src="https://github.com/WiCyS-Amrita/WiCyS/blob/main/Assets/WiCyS_Amrita_School_of_Engineering_Amrita_Vishwa_Vidyapeetham_Student_Chapter_Logo.jpg" alt ="B-RIG" width="240" />
+    <img src="https://github.com/WiCyS-Amrita/WiCyS/blob/main/Assets/WiCyS_Amrita_School_of_Engineering_Amrita_Vishwa_Vidyapeetham_Student_Chapter_Logo.jpg" alt ="WiCyS" width="240" />
 </p>
 
 ### Core Team: 2022 - 2023
@@ -16,7 +17,7 @@
         <td> <b> Mr. Ramaguru Radhakrishnan </b> <br/> 
          Faculty Advisor / Mentor <br/> 
          WASC.CB.22.0002 </td> 
-    </tr>WiCyS-Amrita
+    </tr>
     <tr>
         <td><img src="https://github.com/WiCyS-Amrita/.github/blob/main/profile/images/Deepthi.png" alt="Deepthi J" width=144> </td>
         <td> <b>Ms. Deepthi J </b><br/> 
